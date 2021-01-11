@@ -1,0 +1,409 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Anupam Purty/Desktop/Research/LOg Multiplier/Implementation/16bit
+vaddera
+Z0 !s110 1606879703
+!i10b 1
+!s100 lbWSSS@NW?B4UJoM>3[4K1
+IMV>[YG:eUUFJ02]d0Q<oc0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Anupam Purty/Desktop/Research/LOg Multiplier/Implementation/16bit FINAL
+Z3 w1606879266
+Z4 8C:\Users\Anupam Purty\Desktop\Research\LOg Multiplier\Implementation\16bit FINAL\log_multiplier1.v
+Z5 FC:\Users\Anupam Purty\Desktop\Research\LOg Multiplier\Implementation\16bit FINAL\log_multiplier1.v
+L0 94
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1606879703.000000
+Z8 !s107 C:\Users\Anupam Purty\Desktop\Research\LOg Multiplier\Implementation\16bit FINAL\log_multiplier1.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Anupam Purty\Desktop\Research\LOg Multiplier\Implementation\16bit FINAL\log_multiplier1.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vadderb
+R0
+!i10b 1
+!s100 6JzC@YD7=^Fg@Sm`JS>g<3
+IL;FRN_0DY4k6F^k^D4FNC3
+R1
+R2
+R3
+R4
+R5
+L0 100
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vadderc
+R0
+!i10b 1
+!s100 ZXR3B[mAgT^>PRKZnijk`3
+IS1c768W^;jnjO2mF:cG`N3
+R1
+R2
+R3
+R4
+R5
+L0 106
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vbarrel_shifter
+R0
+!i10b 1
+!s100 DNMOgOC?MaUZUOo60F^Ug1
+IG;[PSKko]Y6oE1gUNW71c1
+R1
+R2
+R3
+R4
+R5
+L0 120
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vdecoder
+R0
+!i10b 1
+!s100 TO2HD[HgdSJ2QeTMLbG:;3
+IC0EKAzDMenzOZ68GQD3hL2
+R1
+R2
+R3
+R4
+R5
+L0 57
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vfour_bit_lod
+R0
+!i10b 1
+!s100 LOcU^9Fn44jZX^hWE3W[B1
+I=7GH`6M7]BXFgagFZkS><2
+R1
+R2
+R3
+R4
+R5
+L0 342
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vfour_bit_mux
+R0
+!i10b 1
+!s100 DY0^fASfnVhI8Q97Kfm2[1
+IiMlNNGXVHWH@hgmY[5C;G3
+R1
+R2
+R3
+R4
+R5
+L0 355
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vlog_multiplier1
+R0
+!i10b 1
+!s100 77`R7bMVP26@ofLF]MU8G2
+IhhV?8eQ]^Jd1jOcz44[h91
+R1
+R2
+R3
+R4
+R5
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vlog_multiplier1_test
+R0
+!i10b 1
+!s100 ?`M>4E?F]b[KWKBV1N[I13
+I0Do8]>l:P=a`]VW<61z3<3
+R1
+R2
+w1606879699
+8C:\Users\Anupam Purty\Desktop\Research\LOg Multiplier\Implementation\16bit FINAL\log_multiplier1_test.v
+FC:\Users\Anupam Purty\Desktop\Research\LOg Multiplier\Implementation\16bit FINAL\log_multiplier1_test.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:\Users\Anupam Purty\Desktop\Research\LOg Multiplier\Implementation\16bit FINAL\log_multiplier1_test.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Anupam Purty\Desktop\Research\LOg Multiplier\Implementation\16bit FINAL\log_multiplier1_test.v|
+!i113 1
+R10
+R11
+vmux
+R0
+!i10b 1
+!s100 akeK6gMheaDW:d[>A;m300
+IzPZmnO:9OH[lZfLKUS15P3
+R1
+R2
+R3
+R4
+R5
+L0 114
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vmuxa
+R0
+!i10b 1
+!s100 Eg<aYHS=3H>7=8z[CU__Q3
+IGH<Q`fMD<<`<m?3YzaFUR3
+R1
+R2
+R3
+R4
+R5
+L0 330
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vmuxb
+R0
+!i10b 1
+!s100 Ynk?E8gFh?`02NhN2nDWa1
+ITX`Rg]^YA87]C6CFA61Kz2
+R1
+R2
+R3
+R4
+R5
+L0 336
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vpriority_encoder
+R0
+!i10b 1
+!s100 UEH9YLRdzm<5S13IMO53<1
+IVhRjcgkR>Z`@VIak^a8o^2
+R1
+R2
+R3
+R4
+R5
+L0 293
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vsixteen_bit_lod
+R0
+!i10b 1
+!s100 ?;8RN[4@7TJSBFdkiChfj0
+IQ7i<F6h9^7<7>9YTgE@0A3
+R1
+R2
+R3
+R4
+R5
+L0 363
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vstage_four
+R0
+!i10b 1
+!s100 Gde^RFA^P=3lZ^^OK11893
+I3onHk:6M1hMfHl:SOiRjh3
+R1
+R2
+R3
+R4
+R5
+L0 15
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vstage_one
+R0
+!i10b 1
+!s100 j@EHWk]T5XFVQeRLZZ9:32
+IOK;<ELN43zkM]MMU0O:8i1
+R1
+R2
+R3
+R4
+R5
+L0 42
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vstage_three
+R0
+!i10b 1
+!s100 XNmG1Hen`=5?D>0H1BXaV1
+I3P1US1bWcgTYW<4z6Sk?@1
+R1
+R2
+R3
+R4
+R5
+L0 22
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vstage_two
+R0
+!i10b 1
+!s100 E]z;iRPgfb7?<iKiT5C1P0
+IIQ3kFO`U=7GNPHON]X3VA2
+R1
+R2
+R3
+R4
+R5
+L0 31
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vxor_gate
+R0
+!i10b 1
+!s100 2ZbBBXNQ5c2mfWZfYB`S81
+I0>L8ABPEUmNW^QndWNHBo0
+R1
+R2
+R3
+R4
+R5
+L0 287
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
