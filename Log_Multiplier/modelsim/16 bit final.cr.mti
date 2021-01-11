@@ -1,0 +1,32 @@
+{C:/Users/Anupam Purty/Desktop/Research/LOg Multiplier/Implementation/16bit FINAL/log_multiplier1.v} {1 {vlog -work work -stats=none {C:\Users\Anupam Purty\Desktop\Research\LOg Multiplier\Implementation\16bit FINAL\log_multiplier1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module log_multiplier1
+-- Compiling module stage_four
+-- Compiling module stage_three
+-- Compiling module stage_two
+-- Compiling module stage_one
+-- Compiling module decoder
+-- Compiling module addera
+-- Compiling module adderb
+-- Compiling module adderc
+-- Compiling module mux
+-- Compiling module barrel_shifter
+-- Compiling module xor_gate
+-- Compiling module priority_encoder
+-- Compiling module muxa
+-- Compiling module muxb
+-- Compiling module four_bit_lod
+-- Compiling module four_bit_mux
+-- Compiling module sixteen_bit_lod
+
+Top level modules:
+	log_multiplier1
+
+} {} {}} {C:/Users/Anupam Purty/Desktop/Research/LOg Multiplier/Implementation/16bit FINAL/log_multiplier1_test.v} {1 {vlog -work work -stats=none {C:\Users\Anupam Purty\Desktop\Research\LOg Multiplier\Implementation\16bit FINAL\log_multiplier1_test.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module log_multiplier1_test
+
+Top level modules:
+	log_multiplier1_test
+
+} {} {}}
