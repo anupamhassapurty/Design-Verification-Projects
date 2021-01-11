@@ -1,1 +1,2 @@
+A leading-one detector is an electronic circuit commonly found in central processing units and especially their arithmetic logic units (ALUs). It is used to detect whether the leading bit in a computer word is 1 or 0, which is used to perform basic binary tests like IF A>0
 This is the complete repository which I have simulated in the modelsim Software
