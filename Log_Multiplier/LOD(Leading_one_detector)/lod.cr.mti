@@ -1,0 +1,19 @@
+C:/Users/hp/Desktop/LOD/lod_test.v {1 {vlog -work work {C:\Users\hp\Desktop\LOD\lod_test.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module lod_test
+
+Top level modules:
+	lod_test
+
+} {} {}} C:/Users/hp/Desktop/LOD/lod.v {1 {vlog -work work {C:\Users\hp\Desktop\LOD\lod.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module muxa
+-- Compiling module muxb
+-- Compiling module four_bit_lod
+-- Compiling module four_bit_mux
+-- Compiling module sixteen_bit_lod
+
+Top level modules:
+	sixteen_bit_lod
+
+} {} {}}
