@@ -13,4 +13,4 @@
 ## 🚀 Ready to Collaborate!
 I thrive on challenges and am open to exciting opportunities. Whether it's elevating your ASIC/IP verification or joining forces on a project, let's connect and make amazing things happen! 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue)](linkedin.com/in/anupam-hassa-purty-009868159)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue)](https://www.linkedin.com/in/anupam-hassa-purty-009868159)
