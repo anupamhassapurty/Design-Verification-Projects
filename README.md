@@ -1,6 +1,7 @@
 # 👋 Hello! I'm Anupam
 
 🔌 ASIC/IP Verification Engineer with 2+ years of experience in System Verilog and UVM.
+📈 MTech VLSI Design - VIT Vellore
 
 ## 💼 What I Offer:
 - **Verification Wiz:** Expertise in ASIC/IP verification using System Verilog/UVM, uncovering hidden bugs, and enhancing quality.
